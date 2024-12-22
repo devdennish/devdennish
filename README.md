@@ -32,7 +32,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <br>Kubernets
     </td>
-    <td align="center" width="96" height="40">
+    <td align="center" width="96" height="30">
             <img src="./assets/aws-cloudformation-logo.png"/>
     <br>Cloudformation
     </td>
