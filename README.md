@@ -17,6 +17,7 @@
 - 🔭 Learning and exploring Cloud Computing, Architect
 - 🧑‍💻 Looking for full-time opportunities in Cloud Support, DevOps roles
 - ✍️ Publishing blogs [here](https://dennish.me/)
+- 📚 Preparing for AWS Solutions Architect:Associate
 
 ---
 
@@ -118,4 +119,5 @@ Feel free to get in touch with me without any hesitation. I'd love to connect wi
   <a href="mailto:contact@dennish.me" alt="Mail"><img height='50' src="./assets/mail.png"></a>
    <a href="https://www.github.com/devdennish" alt="Mail"><img height='50' src="./assets/github.png"></a>
   <a href="https://www.linkedin.com/in/dennish-bhattarai/" alt="Linkedin"><img height='50' src="./assets/linkedin.png"></a>
+  <a href="https://facebook.com/cancer.dennish" alt="Facebook"><img height='50' src="./assets/facebook.png"></a>
 </p>
