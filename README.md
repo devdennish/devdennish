@@ -7,6 +7,7 @@
 <li> 📌 Location : Sydney, Australia 🇦🇺 </li>
 <li> 📢 Languages: English, Nepali
 <li> 🎓 Bachelors of Information Technology | Tech Geek | Full Nerd </li>
+<li> ✅ AWS Certified Solutions Architect:Associate </li>
 <li> ❤️ I love Cloud Computing, DevOps </li>
 </ul>
 
@@ -17,8 +18,6 @@
 - 🔭 Learning and exploring Cloud Computing, Architect
 - 🧑‍💻 Looking for full-time opportunities in Cloud Support, DevOps roles
 - ✍️ Publishing blogs [here](https://dennish.me/)
-- 📚 Preparing for AWS Solutions Architect:Associate
-
 ---
 
 <h2>🖥️ Tech Stack and Tools Used</h2>
